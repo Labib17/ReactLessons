@@ -1,2 +1,0 @@
-# ReactLessons 
-перший коміт
