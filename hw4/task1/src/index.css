@@ -1,0 +1,19 @@
+#root {
+  max-width: 1000px;
+  margin: 300px auto;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+li {
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+  border-radius: 20px;
+  padding: 20px;
+  border: 2px solid rebeccapurple;
+}
